@@ -42,13 +42,13 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2022 BertFlix Developed by{' '}
+          &copy; 2024 AshuFlix Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
               color: theme.palette.primary.main
             }}
-            href="https://berthutapea.vercel.app/"
+            href="https://ashuflix.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
